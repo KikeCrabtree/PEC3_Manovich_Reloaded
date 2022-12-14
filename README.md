@@ -68,10 +68,10 @@ Los usuarios tienen acceso a una serie de videos, una biblioteca pre-grabada y n
 ### Referencias y Bibliografía
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
-* [Lev Manovich](http://manovich.net/)
-* [Stekiamusement](https://www.stekiamusement.com/es/silla-de-movimiento-vr-360)
-* [Oculus](https://www.oculus.com/experiences/quest/?locale=es_ES)
-
+* [Lev Manovich](http://manovich.net/). Enlace a la página de Lev Manovic.
+* [Stekiamusement](https://www.stekiamusement.com/es/silla-de-movimiento-vr-360). Página del fabricante de la silla de RV.
+* [Oculus](https://www.oculus.com/experiences/quest/?locale=es_ES). Página del fabricante de las gafas de RV.
+* [Apple](https://www.apple.com/es/). Página Apple de donde se han obtenido las imágenes.
 ----
 
 Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY [Tubik studio](https://blog.tubikstudio.com/how-to-create-original-flat-illustrations-designers-tips/) 
