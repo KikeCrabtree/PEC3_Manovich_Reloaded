@@ -3,10 +3,10 @@
 ### Recurso de aprendizaje de Cultura Digital 
 
 
-Autor: 
+Autor: Enrique Crabtree Ordóñez
 
 
-Fecha: 
+Fecha: Mes de diciembre de 2022
 
 ![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
 
@@ -15,7 +15,8 @@ Fecha:
 ## Planteamiento
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+La hibridación como «la co-presencia simultánea de múltiples medios dentro del mismo cuadro». Esta definición se presenta en la obra Comprender los medios híbridos de Lev Manovich.![image](https://user-images.githubusercontent.com/93078856/207700140-52d3d333-bb80-4e24-9e2e-755c9cdf3dee.png)
+
 
 
 ## Re-descubriendo la hibridacion: Caso 1
