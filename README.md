@@ -61,7 +61,7 @@ En este caso la hibridación se produce al fusionar la tecnología con sensores,
 Los usuarios tienen acceso a una serie de videos, una biblioteca pre-grabada y no se necesitan apenas instrumentos para ello.
 
 
-![Fitness plus](https://www.apple.com/newsroom/images/product/services/standard/Apple_fitness-plus-iphone11-apple-watch-series-6_09152020.jpg.news_app_ed.jpg)
+![Fitness plus](https://github.com/KikeCrabtree/PEC3_Manovich_Reloaded/blob/main/fitness3.jpg)
 
 
 
