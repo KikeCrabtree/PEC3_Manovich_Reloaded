@@ -8,7 +8,7 @@ Autor: Enrique Crabtree Ordóñez
 
 Fecha: Mes de diciembre de 2022
 
-![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
+![Cultura Digital](https://github.com/KikeCrabtree/PEC3_Manovich_Reloaded/blob/main/inteligencia_artificial.png) 
 
 
 
