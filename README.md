@@ -15,11 +15,7 @@ Fecha: Mes de diciembre de 2022
 ## Planteamiento
 
 
-<![endif]-->
-
 La hibridación como «la co-presencia simultánea de múltiples medios dentro del mismo cuadro». Esta definición se presenta en la obra **_Comprender los medios híbridos_ de Lev Manovich.**
-
-<![endif]-->
 
 Hay ejemplos espectaculares de hibridación cómo la creación de las películas hoy en día. Las grandes producciones cinematográficas usan la combinación de la actuación de los actores y la aplicación de medios digitales de forma conjunta para la creación de nuevos contenidos donde este nuevo lenguaje visualmente híbrido de las imágenes en movimiento vino dominando la cultura visual a escala global.
 
