@@ -46,9 +46,9 @@ Estos son algunos de los titulares que anuncian la experiencia de vivir una mont
 
 Con la Realidad Virtual y artefactos como sillas con movimiento, chalecos, etc... se pueden conseguir experiencias inmersivas increíbles.
 
-En este caso de hibridación se plasma la unión entre una experiencia física, la **[silla de movimiento](https://www.stekiamusement.com/es/silla-de-movimiento-vr-360)** y una experiéncia virtual como son **[Las Gafas de Realidad Virtual](https://www.oculus.com/experiences/quest/?locale=es_ES)**
+En este caso de hibridación se plasma la unión entre una experiencia física, la **[Silla de movimiento](https://www.stekiamusement.com/es/silla-de-movimiento-vr-360)** y una experiéncia virtual como son **[Las Gafas de Realidad Virtual](https://www.oculus.com/experiences/quest/?locale=es_ES)**
 
-
+![RV](https://www.xd-cinema.com/wp-content/uploads/2021/01/360-vr-flight-simulator.jpg)
 
 
 
@@ -60,9 +60,8 @@ Los nuevos modelos pedagógicos corren paralelos a su hibridación con diversos 
 En este caso la hibridación se produce al fusionar la tecnología con sensores, relojes aplicaciones de control de datos y una interacción con entrenadores virtuales en forma de videos.
 Los usuarios tienen acceso a una serie de videos, una biblioteca pre-grabada y no se necesitan apenas instrumentos para ello.
 
-Gafas Oculus (https://m.media-amazon.com/images/I/415+dQxwK+L._AC_SX679_.jpg)
 
-
+![Fitness plus](https://www.apple.com/newsroom/images/product/services/standard/Apple_fitness-plus-iphone11-apple-watch-series-6_09152020.jpg.news_app_ed.jpg)
 
 
 
