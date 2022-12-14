@@ -44,7 +44,7 @@ Esta es la forma en la que nos venden la experiencia ...
 
 Estos son algunos de los titulares que anuncian la experiencia de vivir una montaña rusa sentado en la silla de tu casa y con unas gafas de realidad virtual. Y os lo aseguro, la experiencia es única.
 
-La RV junto a artefactos como sillas con movimiento, chalecos, etc. se pueden conseguir experiencias inmersivas increíbles.
+Con la Realidad Virtual y artefactos como sillas con movimiento, chalecos, etc... se pueden conseguir experiencias inmersivas increíbles.
 
 En este caso de hibridación se plasma la unión entre una experiencia física, la **[silla de movimiento](https://www.stekiamusement.com/es/silla-de-movimiento-vr-360)** y una experiéncia virtual como son **[Las Gafas de Realidad Virtual](https://www.oculus.com/experiences/quest/?locale=es_ES)**
 
@@ -56,8 +56,11 @@ En este caso de hibridación se plasma la unión entre una experiencia física, 
 
 Las aplicaciones deportivas son las que más rápidamente han hibridado con ayuda de artefactos y Apps para control de pulsaciones, mejoras, retos etc.
 Los nuevos modelos pedagógicos corren paralelos a su hibridación con diversos métodos didácticos, afluencia de combinaciones que se propone hoy en día como una estrategia didáctica innovadora.
+
 En este caso la hibridación se produce al fusionar la tecnología con sensores, relojes aplicaciones de control de datos y una interacción con entrenadores virtuales en forma de videos.
 Los usuarios tienen acceso a una serie de videos, una biblioteca pre-grabada y no se necesitan apenas instrumentos para ello.
+
+Gafas Oculus (https://m.media-amazon.com/images/I/415+dQxwK+L._AC_SX679_.jpg)
 
 
 
