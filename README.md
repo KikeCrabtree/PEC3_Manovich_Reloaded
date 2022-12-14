@@ -26,7 +26,7 @@ Lo que se mezcla hoy no es sólo el contenido de los diferentes medios, sino fun
 Desde la popularización de la tecnología, el mundo virtual ha ido creciendo a pasos agigantados hasta convertirse hoy en día en un elemento normalizado y habitual en la sociedad.
 
 Este es el caso que nos ocupa en primer lugar, la hibridación entre lo real y lo virtual.
-> **ProTip:** “La hibridación, el hecho de conseguir un buen equilibrio entre lo presencial y lo virtual en muchos ámbitos de nuestra vida laboral y social, va a ser un elemento clave" . Bourdin Kreitz.
+> **Cita:** “La hibridación, el hecho de conseguir un buen equilibrio entre lo presencial y lo virtual en muchos ámbitos de nuestra vida laboral y social, va a ser un elemento clave" . Bourdin Kreitz.
 
 
 ## Re-descubriendo la hibridacion: Caso 1
