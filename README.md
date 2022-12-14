@@ -61,14 +61,16 @@ En este caso la hibridación se produce al fusionar la tecnología con sensores,
 Los usuarios tienen acceso a una serie de videos, una biblioteca pre-grabada y no se necesitan apenas instrumentos para ello.
 
 
-![Fitness plus](https://github.com/KikeCrabtree/PEC3_Manovich_Reloaded/blob/main/fitness3.jpg)
+![Fitness plus](https://github.com/KikeCrabtree/PEC3_Manovich_Reloaded/blob/main/fitness4.jpeg)
 
 
 
 ### Referencias y Bibliografía
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
-
+* [Lev Manovich](http://manovich.net/)
+* [Stekiamusement](https://www.stekiamusement.com/es/silla-de-movimiento-vr-360)
+* [Oculus](https://www.oculus.com/experiences/quest/?locale=es_ES)
 
 ----
 
