@@ -15,7 +15,7 @@ Fecha: Mes de diciembre de 2022
 ## Planteamiento
 
 
-La hibridación como «la co-presencia simultánea de múltiples medios dentro del mismo cuadro». Esta definición se presenta en la obra **_Comprender los medios híbridos_ de Lev Manovich.**
+La hibridación como «la co-presencia simultánea de múltiples medios dentro del mismo cuadro». Esta definición se presenta en la obra **_Comprender los medios híbridos_ de [Lev Manovich](http://handlebarsjs.com/](http://manovich.net/)**
 
 Hay ejemplos espectaculares de hibridación cómo la creación de las películas hoy en día. Las grandes producciones cinematográficas usan la combinación de la actuación de los actores y la aplicación de medios digitales de forma conjunta para la creación de nuevos contenidos donde este nuevo lenguaje visualmente híbrido de las imágenes en movimiento vino dominando la cultura visual a escala global.
 
@@ -27,12 +27,12 @@ Desde la popularización de la tecnología, el mundo virtual ha ido creciendo a 
 
 
 Este es el caso que nos ocupa en primer lugar, la hibridación entre lo real y lo virtual.
-> **Cita:** “La hibridación, el hecho de conseguir un buen equilibrio entre lo presencial y lo virtual en muchos ámbitos de nuestra vida laboral y social, va a ser un elemento clave" . Bourdin Kreitz.
+> “La hibridación, el hecho de conseguir un buen equilibrio entre lo presencial y lo virtual en muchos ámbitos de nuestra vida laboral y social, va a ser un elemento clave" . Bourdin Kreitz.
 
 
 
 
-## Re-descubriendo la hibridacion:  **Gafas de RV y silla de movimiento**
+## Re-descubriendo la hibridacion:  **Gafas de RV y Silla de movimiento**
 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
