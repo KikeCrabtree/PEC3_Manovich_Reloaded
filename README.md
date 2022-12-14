@@ -27,8 +27,6 @@ Desde la popularización de la tecnología, el mundo virtual ha ido creciendo a 
 
 Este es el caso que nos ocupa en primer lugar, la hibridación entre lo real y lo virtual.
 > **ProTip:** “La hibridación, el hecho de conseguir un buen equilibrio entre lo presencial y lo virtual en muchos ámbitos de nuestra vida laboral y social, va a ser un elemento clave" . Bourdin Kreitz.
-![image](https://user-images.githubusercontent.com/93078856/207703180-d8e8fe6d-6e7a-4f2d-b3fa-3a7b3159b775.png)
-
 
 
 ## Re-descubriendo la hibridacion: Caso 1
