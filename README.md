@@ -30,22 +30,27 @@ Este es el caso que nos ocupa en primer lugar, la hibridación entre lo real y l
 > “La hibridación, el hecho de conseguir un buen equilibrio entre lo presencial y lo virtual en muchos ámbitos de nuestra vida laboral y social, va a ser un elemento clave" . Bourdin Kreitz.
 
 
-<![endif]–>
+
 
 ## Re-descubriendo la hibridacion:  **Gafas de RV y Silla de movimiento**
 
 Esta es la forma en la que nos venden la experiencia ...
 
 “Y si eres un atrevid@ con las montañas rusas reales, si te va el poner tu adrenalina al límite, puedes probarlo de pie. Podríamos escribir muchas palabras para describirlo, pero lo cierto es que seria como explicar de qué sabor es el agua o el color que tiene.”
+
 “Si te gustan las montañas rusas de verdad, podrás ver que es alucinante probarlo en este simulador de montaña rusa de 360 grados.”
+
 “Hasta que no lo pruebas con las gafas de realidad virtual y lo experimentas, las palabras o explicaciones se quedarán cortas.”
+
 Estos son algunos de los titulares que anuncian la experiencia de vivir una montaña rusa sentado en la silla de tu casa y con unas gafas de realidad virtual. Y os lo aseguro, la experiencia es única.
-la RV junto a artefactos como sillas con movimiento, chalecos, etc. se pueden conseguir experiencias inmersivas increíbles
-En este caso de hibridación se plasma la unión entre una experiencia física, la **[silla de movimiento]**(https://www.stekiamusement.com/es/silla-de-movimiento-vr-360) y una experiéncia virtual como son **[Las Gafas de Realidad Virtual]**(https://www.oculus.com/experiences/quest/?locale=es_ES)
+
+La RV junto a artefactos como sillas con movimiento, chalecos, etc. se pueden conseguir experiencias inmersivas increíbles.
+
+En este caso de hibridación se plasma la unión entre una experiencia física, la **[silla de movimiento](https://www.stekiamusement.com/es/silla-de-movimiento-vr-360)** y una experiéncia virtual como son **[Las Gafas de Realidad Virtual](https://www.oculus.com/experiences/quest/?locale=es_ES)**
 
 
 
-<![endif]–>
+
 
 ## Re-descubriendo la hibridacion:  **Fitness Plus**
 
