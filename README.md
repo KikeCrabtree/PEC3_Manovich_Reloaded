@@ -61,10 +61,13 @@ La unión entre la experiéncia física de la realidad y la experiéncia mental 
 Las aplicaciones deportivas son las que más rápidamente han hibridado con ayuda de artefactos y Apps para control de pulsaciones, mejoras, retos etc.
 Los nuevos modelos pedagógicos corren paralelos a su hibridación con diversos métodos didácticos, afluencia de combinaciones que se propone hoy en día como una estrategia didáctica innovadora.
 
-En este caso la hibridación se produce al fusionar la tecnología con sensores, relojes, aplicaciones de control de datos y la interacción con entrenadores virtuales en forma de videos.
-Los usuarios tienen acceso a una serie de videos, una biblioteca pre-grabada y no se necesitan apenas instrumentos para ello.
+¿Quién no ha ido al gimnasio por pereza algujna vez? ¿Te imaginas poder entrenar en tu casa a la hora que tú quieras?
+
+En este caso la hibridación se produce al fusionar la tecnología con sensores, relojes, aplicaciones de control de datos y la interacción con entrenadores virtuales en forma de videos. Los usuarios tienen acceso a una serie de videos, una biblioteca pre-grabada y no se necesitan apenas instrumentos para ello.
+
 Entrenar sin salir de casa pero como si estubieras en el gimnasio? Sumando las características de los dispositivos de control corporal y la capacidad de motivación de enrenadores personales, a cualquier hora y cualquier minuto, nos encontramos con una nueva forma de entender la salud.
 Estos sensores proporcionan información a los entrenadores personales y són éstos los que ns guían. 
+
 Así mismo, este modelo hibridado entre tecnología de control y deporte lo podríamos aplicar a un nuevo método de control de salud. Una hibridación entre el dispositivo de control y el médico. Una nueva sanidad.
 
 
