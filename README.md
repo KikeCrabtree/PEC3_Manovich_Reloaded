@@ -44,7 +44,9 @@ Esta es la forma en la que nos venden la experiencia ...
 
 Estos son algunos de los titulares que anuncian la experiencia de vivir una montaña rusa sentado en la silla de tu casa y con unas gafas de realidad virtual. Y os lo aseguro, la experiencia es única.
 
-Con la Realidad Virtual y artefactos como sillas con movimiento, chalecos, etc... se pueden conseguir experiencias inmersivas increíbles.
+La Realidad Virtual (RV) se define por un entorno simulado, usualmente generado por computadoras,
+transmitido mediante dispositivos audiovisuales y, ocasionalmente, de otros tipos que ocupen otras
+sensaciones (como el olfato o el tacto). Con la Realidad Virtual y artefactos como sillas con movimiento, chalecos, etc... se pueden conseguir experiencias inmersivas increíbles.
 
 En este caso de hibridación se plasma la unión entre una experiencia física, la **[Silla de movimiento](https://www.stekiamusement.com/es/silla-de-movimiento-vr-360)** y una experiéncia virtual como son **[Las Gafas de Realidad Virtual](https://www.oculus.com/experiences/quest/?locale=es_ES)**
 
