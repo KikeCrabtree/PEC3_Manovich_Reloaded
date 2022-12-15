@@ -65,12 +65,14 @@ Los nuevos modelos pedagógicos corren paralelos a su hibridación con diversos 
 
 En este caso la hibridación se produce al fusionar la tecnología con sensores, relojes, aplicaciones de control de datos y la interacción con entrenadores virtuales en forma de videos. Los usuarios tienen acceso a una serie de videos, una biblioteca pre-grabada y no se necesitan apenas instrumentos para ello.
 
+> Apple Fitness+ es un servicio que incluye un montón de entrenamientos y meditaciones en audio y vídeo a cargo de profesionales que además colaboran para crear listas con los mejores temas para motivarte.
+
 Entrenar sin salir de casa pero como si estubieras en el gimnasio? Sumando las características de los dispositivos de control corporal y la capacidad de motivación de enrenadores personales, a cualquier hora y cualquier minuto, nos encontramos con una nueva forma de entender la salud.
 Estos sensores proporcionan información a los entrenadores personales y són éstos los que ns guían. 
 
 Así mismo, este modelo hibridado entre tecnología de control y deporte lo podríamos aplicar a un nuevo método de control de salud. Una hibridación entre el dispositivo de control y el médico. Una nueva sanidad.
 
-> Apple Fitness+ es un servicio que incluye un montón de entrenamientos y meditaciones en audio y vídeo a cargo de profesionales que además colaboran para crear listas con los mejores temas para motivarte.
+
 
 ![Fitness plus](https://github.com/KikeCrabtree/PEC3_Manovich_Reloaded/blob/main/fitness4.jpeg)
 
