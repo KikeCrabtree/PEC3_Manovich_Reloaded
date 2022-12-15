@@ -76,7 +76,11 @@ Así mismo, este modelo hibridado entre tecnología de control y deporte lo podr
 
 ![Fitness plus](https://github.com/KikeCrabtree/PEC3_Manovich_Reloaded/blob/main/fitness4.jpeg)
 
+## Conclusiones
 
+En la elaboración de este nuevo trabajo me he dado cuenta que muchas de las actividades que nos apasionan son hibridaciones de otras. Me refiero no al hecho de mejorar una experiencia en sí, sino a crear nuevas formas de diversión a partir de la union de otras.
+
+En el segundo caso en concreto, me sorprende que nadie haya convinado de manera eficiente el acceso a sensores de salud con un contacto con los medicos. ¿Cómo seria nuestra seguridad social sin el agobio de las colas, las esperas y el contacto con otras personas que tambien están enfermas?. Es una pregunta lanzada al viento, pero que si aguien la pusiera en práctica, no creo que defraudara a nadie.
 
 ### Referencias y Bibliografía
 
