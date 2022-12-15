@@ -82,7 +82,7 @@ En la elaboración de este nuevo trabajo me he dado cuenta que muchas de las act
 
 En el segundo caso en concreto, me sorprende que nadie haya convinado de manera eficiente el acceso a sensores de salud con un contacto con los medicos. ¿Cómo seria nuestra seguridad social sin el agobio de las colas, las esperas y el contacto con otras personas que tambien están enfermas?. Es una pregunta lanzada al viento, pero que si aguien la pusiera en práctica, no creo que defraudara a nadie.
 
-### Referencias y Bibliografía
+## Referencias y Bibliografía
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
 * [Lev Manovich](http://manovich.net/). Enlace a la página de Lev Manovic.
