@@ -6,7 +6,7 @@
 Autor: Enrique Crabtree Ordóñez
 
 
-Fecha: Mes de diciembre de 2022
+Fecha: Diciembre de 2022
 
 ![Cultura Digital](https://github.com/KikeCrabtree/PEC3_Manovich_Reloaded/blob/main/inteligencia_artificial.png) 
 
