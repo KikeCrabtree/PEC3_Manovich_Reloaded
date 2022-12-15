@@ -70,6 +70,7 @@ Estos sensores proporcionan información a los entrenadores personales y són é
 
 Así mismo, este modelo hibridado entre tecnología de control y deporte lo podríamos aplicar a un nuevo método de control de salud. Una hibridación entre el dispositivo de control y el médico. Una nueva sanidad.
 
+> Apple Fitness+ es un servicio que incluye un montón de entrenamientos y meditaciones en audio y vídeo a cargo de profesionales que además colaboran para crear listas con los mejores temas para motivarte.
 
 ![Fitness plus](https://github.com/KikeCrabtree/PEC3_Manovich_Reloaded/blob/main/fitness4.jpeg)
 
